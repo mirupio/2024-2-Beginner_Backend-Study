@@ -13,3 +13,5 @@ JPA (Java Persistence API)
 => 외래키 컬럼
 
 @NoArgesConstructor,@Getter -> 생성자
+
+![image](https://github.com/user-attachments/assets/1d6cb8af-db86-4c10-a376-ca9a9458bae4)
